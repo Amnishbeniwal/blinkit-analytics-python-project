@@ -84,4 +84,4 @@ Python-based data analysis workflow
 
 ## 📊 Dashboard / Analysis Preview
 
-![Blinkit Sales Analysis](images/sales_analysis.png)
+![Blinkit Sales Analysis](https://github.com/Amnishbeniwal/blinkit-analytics-python-project/blob/main/blinkit%20analytics%20python%20project.png)
